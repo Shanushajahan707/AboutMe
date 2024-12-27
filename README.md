@@ -1,5 +1,5 @@
 # 💫 About Me  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&s" alt="Coding GIF" width="100%" height="400" />  
+<img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="Coding GIF" width="100%" height="400" />  
 
 I am a passionate **MEAN stack developer** with a robust background in building scalable and efficient web applications that drive user and business success. With a solid foundation in Computer Engineering, I have honed my skills in crafting high-performing solutions using cutting-edge technologies.  
 
